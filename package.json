@@ -1,0 +1,8 @@
+{
+  "name": "2019-yarn-workspace",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/codegrid/2019-yarn-workspace.git",
+  "private": true
+}
